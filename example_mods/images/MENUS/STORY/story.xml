@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STORY.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story friend0000" x="10" y="10" width="649" height="797"/>
+	<SubTexture name="story friend0001" x="10" y="10" width="649" height="797"/>
+	<SubTexture name="story friend0002" x="10" y="10" width="649" height="797"/>
+	<SubTexture name="story friend0003" x="10" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0000" x="699" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0001" x="699" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0002" x="699" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0003" x="699" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0004" x="10" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0005" x="10" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0006" x="10" y="10" width="649" height="797"/>
+	<SubTexture name="storySLCTD0007" x="10" y="10" width="649" height="797"/>
+</TextureAtlas>

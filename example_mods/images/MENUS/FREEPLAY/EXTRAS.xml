@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EXTRAS.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="extras0000" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0000" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0001" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0002" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0003" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0004" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0005" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0006" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="extrasSLCTD0007" x="10" y="10" width="662" height="766"/>
+</TextureAtlas>

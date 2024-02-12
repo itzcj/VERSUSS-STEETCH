@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CROSSOVERS.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crossovers0000" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossovers0001" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossovers0002" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossovers0003" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossovers0004" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossovers0005" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossovers0006" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossovers0007" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0000" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0001" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0002" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0003" x="712" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0004" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0005" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0006" x="10" y="10" width="662" height="766"/>
+	<SubTexture name="crossoversSLCTD0007" x="10" y="10" width="662" height="766"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storysprkls.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="storysprkls0000" x="10" y="10" width="62" height="910" frameX="0" frameY="-4" frameWidth="62" frameHeight="921"/>
+	<SubTexture name="storysprkls0001" x="10" y="10" width="62" height="910" frameX="0" frameY="-4" frameWidth="62" frameHeight="921"/>
+	<SubTexture name="storysprkls0002" x="10" y="10" width="62" height="910" frameX="0" frameY="-4" frameWidth="62" frameHeight="921"/>
+	<SubTexture name="storysprkls0003" x="10" y="10" width="62" height="910" frameX="0" frameY="-4" frameWidth="62" frameHeight="921"/>
+	<SubTexture name="storysprkls0004" x="112" y="10" width="56" height="921" frameX="-1" frameY="0" frameWidth="62" frameHeight="921"/>
+	<SubTexture name="storysprkls0005" x="112" y="10" width="56" height="921" frameX="-1" frameY="0" frameWidth="62" frameHeight="921"/>
+	<SubTexture name="storysprkls0006" x="112" y="10" width="56" height="921" frameX="-1" frameY="0" frameWidth="62" frameHeight="921"/>
+	<SubTexture name="storysprkls0007" x="112" y="10" width="56" height="921" frameX="-1" frameY="0" frameWidth="62" frameHeight="921"/>
+</TextureAtlas>

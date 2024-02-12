@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OPTIONS.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options friend0000" x="10" y="10" width="436" height="466"/>
+	<SubTexture name="options friend0001" x="10" y="10" width="436" height="466"/>
+	<SubTexture name="options friend0002" x="10" y="10" width="436" height="466"/>
+	<SubTexture name="options friend0003" x="10" y="10" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0000" x="486" y="10" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0001" x="486" y="10" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0002" x="486" y="10" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0003" x="486" y="10" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0004" x="10" y="516" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0005" x="10" y="516" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0006" x="10" y="516" width="436" height="466"/>
+	<SubTexture name="optionsSLCTD0007" x="10" y="516" width="436" height="466"/>
+</TextureAtlas>

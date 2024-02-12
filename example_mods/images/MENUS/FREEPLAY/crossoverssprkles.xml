@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crossoverssprkles.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crossoverssprkls0000" x="10" y="10" width="78" height="851" frameX="0" frameY="-7" frameWidth="81" frameHeight="858"/>
+	<SubTexture name="crossoverssprkls0001" x="10" y="10" width="78" height="851" frameX="0" frameY="-7" frameWidth="81" frameHeight="858"/>
+	<SubTexture name="crossoverssprkls0002" x="10" y="10" width="78" height="851" frameX="0" frameY="-7" frameWidth="81" frameHeight="858"/>
+	<SubTexture name="crossoverssprkls0003" x="10" y="10" width="78" height="851" frameX="0" frameY="-7" frameWidth="81" frameHeight="858"/>
+	<SubTexture name="crossoverssprkls0004" x="128" y="10" width="81" height="857" frameX="0" frameY="0" frameWidth="81" frameHeight="858"/>
+	<SubTexture name="crossoverssprkls0005" x="128" y="10" width="81" height="857" frameX="0" frameY="0" frameWidth="81" frameHeight="858"/>
+	<SubTexture name="crossoverssprkls0006" x="128" y="10" width="81" height="857" frameX="0" frameY="0" frameWidth="81" frameHeight="858"/>
+	<SubTexture name="crossoverssprkls0007" x="128" y="10" width="81" height="857" frameX="0" frameY="0" frameWidth="81" frameHeight="858"/>
+</TextureAtlas>

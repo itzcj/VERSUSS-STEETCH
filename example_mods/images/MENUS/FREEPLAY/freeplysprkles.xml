@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplysprkles.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="extrassprkls0000" x="10" y="10" width="85" height="900" frameX="-6" frameY="-4" frameWidth="100" frameHeight="909"/>
+	<SubTexture name="extrassprkls0001" x="10" y="10" width="85" height="900" frameX="-6" frameY="-4" frameWidth="100" frameHeight="909"/>
+	<SubTexture name="extrassprkls0002" x="10" y="10" width="85" height="900" frameX="-6" frameY="-4" frameWidth="100" frameHeight="909"/>
+	<SubTexture name="extrassprkls0003" x="10" y="10" width="85" height="900" frameX="-6" frameY="-4" frameWidth="100" frameHeight="909"/>
+	<SubTexture name="extrassprkls0004" x="135" y="10" width="100" height="909"/>
+	<SubTexture name="extrassprkls0005" x="135" y="10" width="100" height="909"/>
+	<SubTexture name="extrassprkls0006" x="135" y="10" width="100" height="909"/>
+	<SubTexture name="extrassprkls0007" x="135" y="10" width="100" height="909"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STITCHsprkles.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stitchsprkls0000" x="10" y="10" width="942" height="314" frameX="0" frameY="0" frameWidth="946" frameHeight="320"/>
+	<SubTexture name="stitchsprkls0001" x="10" y="10" width="942" height="314" frameX="0" frameY="0" frameWidth="946" frameHeight="320"/>
+	<SubTexture name="stitchsprkls0002" x="10" y="10" width="942" height="314" frameX="0" frameY="0" frameWidth="946" frameHeight="320"/>
+	<SubTexture name="stitchsprkls0003" x="10" y="10" width="942" height="314" frameX="0" frameY="0" frameWidth="946" frameHeight="320"/>
+	<SubTexture name="stitchsprkls0004" x="10" y="364" width="943" height="320" frameX="-3" frameY="0" frameWidth="946" frameHeight="320"/>
+	<SubTexture name="stitchsprkls0005" x="10" y="364" width="943" height="320" frameX="-3" frameY="0" frameWidth="946" frameHeight="320"/>
+	<SubTexture name="stitchsprkls0006" x="10" y="364" width="943" height="320" frameX="-3" frameY="0" frameWidth="946" frameHeight="320"/>
+	<SubTexture name="stitchsprkls0007" x="10" y="364" width="943" height="320" frameX="-3" frameY="0" frameWidth="946" frameHeight="320"/>
+</TextureAtlas>

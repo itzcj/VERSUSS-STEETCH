@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="optionssprkls.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="optionsprkls0000" x="10" y="10" width="73" height="71" frameX="-4" frameY="0" frameWidth="78" frameHeight="71"/>
+	<SubTexture name="optionsprkls0001" x="10" y="10" width="73" height="71" frameX="-4" frameY="0" frameWidth="78" frameHeight="71"/>
+	<SubTexture name="optionsprkls0002" x="10" y="10" width="73" height="71" frameX="-4" frameY="0" frameWidth="78" frameHeight="71"/>
+	<SubTexture name="optionsprkls0003" x="10" y="10" width="73" height="71" frameX="-4" frameY="0" frameWidth="78" frameHeight="71"/>
+	<SubTexture name="optionsprkls0004" x="123" y="10" width="78" height="67" frameX="0" frameY="-2" frameWidth="78" frameHeight="71"/>
+	<SubTexture name="optionsprkls0005" x="123" y="10" width="78" height="67" frameX="0" frameY="-2" frameWidth="78" frameHeight="71"/>
+	<SubTexture name="optionsprkls0006" x="123" y="10" width="78" height="67" frameX="0" frameY="-2" frameWidth="78" frameHeight="71"/>
+	<SubTexture name="optionsprkls0007" x="123" y="10" width="78" height="67" frameX="0" frameY="-2" frameWidth="78" frameHeight="71"/>
+</TextureAtlas>

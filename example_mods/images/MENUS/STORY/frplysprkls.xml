@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frplysprkls.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplayspkls0000" x="10" y="10" width="71" height="67" frameX="-5" frameY="-4" frameWidth="76" frameHeight="72"/>
+	<SubTexture name="freeplayspkls0001" x="10" y="10" width="71" height="67" frameX="-5" frameY="-4" frameWidth="76" frameHeight="72"/>
+	<SubTexture name="freeplayspkls0002" x="10" y="10" width="71" height="67" frameX="-5" frameY="-4" frameWidth="76" frameHeight="72"/>
+	<SubTexture name="freeplayspkls0003" x="10" y="10" width="71" height="67" frameX="-5" frameY="-4" frameWidth="76" frameHeight="72"/>
+	<SubTexture name="freeplayspkls0004" x="121" y="10" width="70" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72"/>
+	<SubTexture name="freeplayspkls0005" x="121" y="10" width="70" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72"/>
+	<SubTexture name="freeplayspkls0006" x="121" y="10" width="70" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72"/>
+	<SubTexture name="freeplayspkls0007" x="121" y="10" width="70" height="72" frameX="0" frameY="0" frameWidth="76" frameHeight="72"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STITCH.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="STITCH_fuck0000" x="10" y="10" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0000" x="10" y="310" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0001" x="10" y="310" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0002" x="10" y="310" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0003" x="10" y="310" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0004" x="10" y="10" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0005" x="10" y="10" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0006" x="10" y="10" width="822" height="260"/>
+	<SubTexture name="STITCH slcdt0007" x="10" y="10" width="822" height="260"/>
+</TextureAtlas>
